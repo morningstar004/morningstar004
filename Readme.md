@@ -66,13 +66,6 @@ Here are a few projects that showcase my work and contributions:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=morningstar004&theme=github-dark-blue&border_radius=8" alt="Pranjal's GitHub contribution streak" />
 </p>
 
-*GitHub achievements are included in the self-hosted metrics card above.*
-
-### Contribution snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/morningstar004/morningstar004/output/github-contribution-grid-snake.svg" alt="Animated snake moving across Pranjal's GitHub contribution graph" />
-</p>
 
 *The snake travels across the contribution grid, collecting the green contribution squares as it goes.*
 
