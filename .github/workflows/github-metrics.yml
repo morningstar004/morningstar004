@@ -22,7 +22,7 @@ jobs:
           user: ${{ github.repository_owner }}
           filename: github-metrics.svg
           template: classic
-          base: header, activity, community, repositories, metadata
-          plugin_achievements: yes
+          base: header, activity, community, metadata
+          plugin_achievements: no
           plugin_achievements_threshold: C
           plugin_calendar: yes
